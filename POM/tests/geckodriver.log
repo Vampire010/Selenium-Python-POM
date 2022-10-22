@@ -10,3 +10,15 @@ DevTools listening on ws://127.0.0.1:49397/devtools/browser/f8ee08f7-e88a-4132-8
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
 1666451129121	Marionette	INFO	Stopped listening on port 49407
+1666451683920	geckodriver	INFO	Listening on 127.0.0.1:50217
+1666451686916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\giris\\AppData\\Local\\Temp\\rust_mozprofilebxw0Uh"
+1666451687291	Marionette	INFO	Marionette enabled
+1666451687296	Marionette	INFO	Listening on port 50228
+Read port: 50228
+WebDriver BiDi listening on ws://127.0.0.1:50218
+1666451687461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giris\\AppData\\Local\\Temp\\rust_mozprofilebxw0Uh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50218/devtools/browser/2b3cda3f-269f-4ebe-b599-f778ef41abff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1666451708973	Marionette	INFO	Stopped listening on port 50228
