@@ -1,0 +1,12 @@
+1666451119568	geckodriver	INFO	Listening on 127.0.0.1:49396
+1666451122556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\giris\\AppData\\Local\\Temp\\rust_mozprofileqxVHrP"
+1666451122965	Marionette	INFO	Marionette enabled
+1666451122971	Marionette	INFO	Listening on port 49407
+Read port: 49407
+WebDriver BiDi listening on ws://127.0.0.1:49397
+1666451123154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giris\\AppData\\Local\\Temp\\rust_mozprofileqxVHrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49397/devtools/browser/f8ee08f7-e88a-4132-8cad-05ce67fad65d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1666451129121	Marionette	INFO	Stopped listening on port 49407
